@@ -1,14 +1,10 @@
 # Elliott Rosenberg
 
-I build software for creative practices — the operational layer that design studios and independent
-practitioners actually run on. My background is in the design cycle: research, hypothesis, iteration.
-Most of what's here is me applying that loop to shipping product.
-
 ---
 
 ### 🌿 [Perennial](https://github.com/elliottsrosenberg-byte/perennial-app) · [app.perennial.design](https://app.perennial.design)
 
-A business operating system for creative practices. One app instead of six tools:
+A business operating system for creative practices.
 
 | Module | What it does |
 | --- | --- |
